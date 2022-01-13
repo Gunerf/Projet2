@@ -1,0 +1,10 @@
+.hero {
+  background-color: #000000;
+  background-image:url(https://windsurf.voyages-adekua.fr/sites/default/files/windsurf/produit/stage-planche-a-voile-a-sal-cap-vert-avec-cours-hotel-4-sur-la-plage/images/sejour-windsurf-sal-cap-vert-22.jpg);
+  background-position: center;
+  background-size: cover;
+  color: black;
+  padding: 1em;
+  text-align: left;
+  font-size: 1em;
+}
